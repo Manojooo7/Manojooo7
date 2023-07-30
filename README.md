@@ -1,5 +1,4 @@
-# 💫 Hi I'm Manoj Mondal
-<h2>Front-end Developer</h2>  
+# 💫 Hi I'm Manoj Mondal 
 I'm currently working on jsaecom as an product designer<br>I'm currently learning NEXTJS<br>I'm looking for remote Job<br><br>
 
 
