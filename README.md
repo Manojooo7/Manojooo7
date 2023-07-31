@@ -13,6 +13,9 @@ I'm currently working on jsaecom as an product designer<br>I'm currently learnin
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Manojooo7&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manojooo7&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
+## My Contributions
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/saIespØ7fsaIespØ7/output/github-contribution-grid-snake.svg" / >
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Manojooo7&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
