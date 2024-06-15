@@ -1,6 +1,5 @@
 # 💫 Hi I'm Manoj Mondal 
-I'm currently working on jsaecom as an product designer<br>I'm currently learning NEXTJS<br>I'm looking for remote Job<br><br>
-
+Frontend developer proficient in HTML, CSS, Tailwind, JavaScript, and React,<br>with backend expertise in Node.js, MongoDB, and MySQL.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manoj_mondall) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-mondal-270791205/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ManojMo54882505) 
