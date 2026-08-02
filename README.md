@@ -1,5 +1,5 @@
 # 💫 Hi I'm Manoj Mondal 
-Full stack developer proficient in HTML, CSS, Tailwind, JavaScript, React, NextJs<br>with backend expertise in Node.js, Express, MongoDB, MySQL, Docekr, Kubernetes, Postgres Neon, Appwrite, and AWS.
+Frontend engineer with 4+ years building interaction-heavy web applications in React and Next.js. Depth in the areas most teams route around — canvas rendering, coordinate systems, editor internals, and render performance at scale. Currently leading a 4-person frontend team.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manoj_mondall) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-mondal-270791205/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ManojMo54882505) 
